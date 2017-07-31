@@ -1,0 +1,40 @@
+#baby{
+  width: 150px;
+  height: 150px;
+}
+#Content{
+  font-family: sans-serif;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 3px solid #501845;
+  background-color: #4076DC;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+/** {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}*/
+h1{
+  text-align: center;
+  font-size: 375%;
+  text-transform: uppercase;
+  letter-spacing: 1%;
+}
+.parallax{
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMbFKPjMLB3dzZyVBHeaxC2qlTZnFXAmPrz_6IIUr43OLQ38i3A") repeat fixed 100%;
+
+}
+.parallax-inner{
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
